@@ -1,0 +1,27 @@
+commit 1aaaa6983122142493d7d3fda591eeb6afb1be38
+Author: Emmett Lalish <elalish@google.com>
+Date:   Mon Jan 13 16:37:39 2020 -0800
+
+    Fixing Transparency (#961)
+    
+    * added mrdoob's example
+    
+    * updated models
+    
+    * updated style
+    
+    * depthWrite false
+    
+    * backside-first transparent rendering
+    
+    * fixed transparency sorting
+    
+    * bumped puppeteer version
+    
+    * updated goldens
+    
+    * added doc
+    
+    * removing stuff not part of this PR
+    
+    * addressing feedback
